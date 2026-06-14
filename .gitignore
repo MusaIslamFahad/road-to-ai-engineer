@@ -1,0 +1,105 @@
+# ─── Python ───────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.Python
+pip-wheel-metadata/
+
+# ─── Virtual Environments ─────────────────────────
+.env
+.venv
+env/
+venv/
+ENV/
+ai-engineer/
+ai-engineer-env/
+.conda/
+
+# ─── Jupyter ──────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*.ipynb_metadata
+
+# ─── Data Files (download separately) ────────────
+*.csv
+*.parquet
+*.feather
+*.json
+!resources/*.json
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.h5
+!**/*requirements*.txt
+
+# ─── Model Artifacts ──────────────────────────────
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.safetensors
+models/
+checkpoints/
+*.bin
+*.model
+
+# ─── MLflow / DVC ─────────────────────────────────
+mlruns/
+.dvc/tmp/
+.dvc/cache/
+*.dvc
+dvc.lock
+
+# ─── Weights & Biases ─────────────────────────────
+wandb/
+
+# ─── Cloud / AWS ──────────────────────────────────
+.aws/
+*.pem
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# ─── Docker ───────────────────────────────────────
+.dockerenv
+
+# ─── IDE / Editor ─────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Secrets & Keys ───────────────────────────────
+.env
+.env.*
+!.env.example
+secrets.yaml
+*_secrets.py
+*.key
+*.pem
+*.cert
+
+# ─── Logs & Output ────────────────────────────────
+logs/
+*.log
+output/
+results/
+runs/
+
+# ─── Coverage / Testing ───────────────────────────
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/

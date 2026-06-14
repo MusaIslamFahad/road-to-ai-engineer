@@ -1,0 +1,139 @@
+# ============================================================
+# Road to AI Engineer — requirements.txt
+# Full dependency list for all 23 modules
+# Install: pip install -r requirements.txt
+#
+# NOTE: GPU packages (CUDA/cuDNN) must be installed separately.
+# Visit https://pytorch.org and https://www.tensorflow.org/install
+# for GPU-specific installation instructions.
+# ============================================================
+
+# ─── Core Data Science ───────────────────────────────────────
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+polars>=0.18
+dask[dataframe]>=2023.1
+pyarrow>=12.0
+
+# ─── Visualization ───────────────────────────────────────────
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.14
+dash>=2.10
+streamlit>=1.22
+bokeh>=3.1
+
+# ─── Classical Machine Learning ──────────────────────────────
+scikit-learn>=1.2
+xgboost>=1.7
+lightgbm>=3.3
+catboost>=1.2
+imbalanced-learn>=0.10
+optuna>=3.1
+joblib>=1.2
+statsmodels>=0.14
+
+# ─── Deep Learning (CPU — override with GPU build) ───────────
+torch>=2.0
+torchvision>=0.15
+torchaudio>=2.0
+tensorflow>=2.12
+keras>=2.12
+
+# ─── Computer Vision ─────────────────────────────────────────
+opencv-python>=4.8
+albumentations>=1.3
+Pillow>=9.5
+timm>=0.9          # Pre-trained vision models (EfficientNet, ViT, etc.)
+ultralytics>=8.0   # YOLO v8
+torchmetrics>=0.11
+
+# ─── Natural Language Processing ─────────────────────────────
+transformers>=4.30
+datasets>=2.12
+tokenizers>=0.13
+accelerate>=0.20
+peft>=0.4          # LoRA, QLoRA, parameter-efficient fine-tuning
+bitsandbytes>=0.39 # 4-bit/8-bit quantization
+sentencepiece>=0.1.99
+evaluate>=0.4
+nltk>=3.8
+spacy>=3.5
+gensim>=4.3        # Word2Vec, FastText
+
+# ─── Generative AI & LLM Stack ───────────────────────────────
+langchain>=0.1
+langchain-openai>=0.0.2
+langchain-anthropic>=0.1
+langchain-community>=0.0.10
+langchain-core>=0.1
+openai>=1.0
+anthropic>=0.18
+llama-index>=0.9
+chromadb>=0.4
+faiss-cpu>=1.7     # Use faiss-gpu for GPU support
+pinecone-client>=2.2
+sentence-transformers>=2.2
+tiktoken>=0.4
+cohere>=4.0
+
+# ─── Audio & Speech ──────────────────────────────────────────
+librosa>=0.10
+soundfile>=0.12
+torchaudio>=2.0    # already listed above
+speechbrain>=0.5
+
+# ─── Reinforcement Learning ──────────────────────────────────
+gymnasium>=0.29    # OpenAI Gym successor
+stable-baselines3>=2.0
+
+# ─── Graph Neural Networks ───────────────────────────────────
+# torch-geometric requires separate install matching your PyTorch version
+# See: https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html
+# torch-geometric>=2.3
+networkx>=3.1
+
+# ─── Time Series ─────────────────────────────────────────────
+prophet>=1.1
+statsforecast>=1.5
+neuralforecast>=1.5
+darts>=0.25
+
+# ─── MLOps & Experiment Tracking ─────────────────────────────
+mlflow>=2.4
+wandb>=0.15
+dvc>=3.0
+
+# ─── Model Deployment & APIs ─────────────────────────────────
+fastapi>=0.99
+uvicorn[standard]>=0.22
+flask>=2.3
+gunicorn>=20.1
+pydantic>=2.0
+httpx>=0.24
+requests>=2.30
+
+# ─── SQL & Databases ─────────────────────────────────────────
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+pymongo>=4.4
+redis>=4.6
+
+# ─── Model Explainability ────────────────────────────────────
+shap>=0.42
+lime>=0.2
+
+# ─── Utilities ───────────────────────────────────────────────
+jupyter>=1.0
+notebook>=6.5
+ipywidgets>=8.0
+tqdm>=4.65
+python-dotenv>=1.0
+pyyaml>=6.0
+click>=8.1
+loguru>=0.7
+rich>=13.0
+pytest>=7.3
+black>=23.3        # Code formatter
+isort>=5.12        # Import sorter
