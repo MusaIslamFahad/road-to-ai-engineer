@@ -1,3 +1,5 @@
+<div align="center">
+
 # Road to AI Engineer: Generalist AI Mastery
 
 [![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/road-to-ai-engineer?style=social)](https://github.com/YOUR_USERNAME/road-to-ai-engineer/stargazers)
@@ -6,15 +8,13 @@
 [![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/road-to-ai-engineer)](https://github.com/YOUR_USERNAME/road-to-ai-engineer/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-**A complete, end-to-end learning path to becoming a Generalist AI Engineer — covering all domains of modern AI from fundamentals to production.**
+**A complete, end-to-end learning path to becoming a Generalist AI Engineer covering all domains of modern AI from fundamentals to production.**
 
 *23 Learning Modules • 3 Project Directories • 23 Real-World Projects • All AI Domains • Production-Ready Skills*
 
-[Get Started](#getting-started) • [Learning Path](#learning-path-overview) • [Projects](#phase-9-projects) • [Resources](#resources) • [Contribute](#contributing)
+#### [Get Started](#getting-started) • [Learning Path](#learning-path-overview) • [Projects](#phase-9-projects) • [Resources](#resources) • [Contribute](#contributing)
 
----
-
-> **Source Material**: This focused path is extracted from the comprehensive [road-to-machine-learning](https://github.com/NabidAlam/road-to-machine-learning) repository by [@NabidAlam](https://github.com/NabidAlam). All credit for the original content goes to the original author.
+</div>
 
 ---
 
@@ -532,34 +532,34 @@ jupyter notebook
 
 ```
 road-to-ai-engineer/
-├── 00-prerequisites/              # Python, Math, Environment Setup
-├── 01-python-for-data-science/    # NumPy, Pandas, Visualization, EDA
-├── 02-introduction-to-ml/         # ML Concepts, Workflow, First Project
-├── 03-supervised-learning-regression/   # Linear/Polynomial Regression
+├── 00-prerequisites/                       # Python, Math, Environment Setup
+├── 01-python-for-data-science/             # NumPy, Pandas, Visualization, EDA
+├── 02-introduction-to-ml/                  # ML Concepts, Workflow, First Project
+├── 03-supervised-learning-regression/      # Linear/Polynomial Regression
 ├── 04-supervised-learning-classification/  # Classification Algorithms
-├── 05-model-evaluation-optimization/   # Evaluation, Tuning, Validation
-├── 06-ensemble-methods/           # Random Forest, XGBoost, Stacking
-├── 07-feature-engineering/        # Feature Selection, Encoding, Pipelines
-├── 08-unsupervised-learning/      # Clustering, PCA, Anomaly Detection
-├── 09-neural-networks-basics/     # Neural Networks, Backpropagation
-├── 10-deep-learning-frameworks/   # PyTorch, TensorFlow, Keras
-├── 11-computer-vision/            # CNNs, Detection, Segmentation, GANs
-├── 12-natural-language-processing/ # NLP, Transformers, Fine-tuning
-├── 13-model-deployment/           # APIs, Docker, Cloud, A/B Testing
-├── 14-mlops-basics/               # MLflow, DVC, CI/CD, Kafka, Spark
-├── 15-time-series-analysis/       # ARIMA, LSTM, Forecasting
-├── 16-projects-beginner/          # 6 beginner projects with full code
-├── 17-projects-intermediate/      # 8 intermediate projects with instructions
-├── 18-projects-advanced/          # 9 advanced projects + capstone blueprints
-├── 19-sql-database-fundamentals/  # SQL, NoSQL, Vector Databases
-├── 20-handling-imbalanced-data/   # SMOTE, Class Weights, Metrics
-├── 21-model-explainability/       # SHAP, LIME, PDP, Regulatory AI
-├── 22-reinforcement-learning/     # MDPs, DQN, PPO, Actor-Critic
-├── 23-graph-neural-networks/      # GCNs, GATs, GraphSAGE
-├── 24-audio-speech-processing/    # ASR, TTS, Audio Classification
-├── 25-generative-ai-llms/         # Prompt Eng, RAG, Agents, LangChain
-├── resources/                     # Cheatsheets, guides, reference material
-├── tools/                         # Utility scripts
+├── 05-model-evaluation-optimization/       # Evaluation, Tuning, Validation
+├── 06-ensemble-methods/                    # Random Forest, XGBoost, Stacking
+├── 07-feature-engineering/                 # Feature Selection, Encoding, Pipelines
+├── 08-unsupervised-learning/               # Clustering, PCA, Anomaly Detection
+├── 09-neural-networks-basics/              # Neural Networks, Backpropagation
+├── 10-deep-learning-frameworks/            # PyTorch, TensorFlow, Keras
+├── 11-computer-vision/                     # CNNs, Detection, Segmentation, GANs
+├── 12-natural-language-processing/         # NLP, Transformers, Fine-tuning
+├── 13-model-deployment/                    # APIs, Docker, Cloud, A/B Testing
+├── 14-mlops-basics/                        # MLflow, DVC, CI/CD, Kafka, Spark
+├── 15-time-series-analysis/                # ARIMA, LSTM, Forecasting
+├── 16-projects-beginner/                   # 6 beginner projects with full code
+├── 17-projects-intermediate/               # 8 intermediate projects with instructions
+├── 18-projects-advanced/                   # 9 advanced projects + capstone blueprints
+├── 19-sql-database-fundamentals/           # SQL, NoSQL, Vector Databases
+├── 20-handling-imbalanced-data/            # SMOTE, Class Weights, Metrics
+├── 21-model-explainability/                # SHAP, LIME, PDP, Regulatory AI
+├── 22-reinforcement-learning/              # MDPs, DQN, PPO, Actor-Critic
+├── 23-graph-neural-networks/               # GCNs, GATs, GraphSAGE
+├── 24-audio-speech-processing/             # ASR, TTS, Audio Classification
+├── 25-generative-ai-llms/                  # Prompt Eng, RAG, Agents, LangChain
+├── resources/                              # Cheatsheets, guides, reference material
+├── tools/                                  # Utility scripts
 ├── requirements.txt
 ├── LICENSE
 ├── README.md
@@ -656,7 +656,7 @@ road-to-ai-engineer/
 4. **Breadth First, Then Depth**: Understand all domains before specializing
 5. **Read Papers**: Start reading ML papers from Phase 5 onwards
 6. **Experiment**: Break things, ablate, change one variable at a time
-7. **Be Patient**: This is the longest path — 25–38 months. Consistency beats intensity
+7. **Be Patient**: This is the longest path - 25–38 months. Consistency beats intensity
 
 ---
 
@@ -679,12 +679,12 @@ This repo covers Python fundamentals, OOP, functional programming, and data scie
 **Use alongside**: Module 25 (Generative AI & LLMs) and Phase 8 (Production & Deployment)
 
 The AI Integration Hub provides:
-- **API Directory** — 15+ AI providers (OpenAI, Anthropic, Google, Groq, Cohere, etc.) with pricing and free tier info
-- **Ready-to-use code templates** — OpenAI, Anthropic, Google Gemini, LangChain, LlamaIndex, RAG
-- **Model Comparison Table** — GPT-4o, Claude, Gemini, Llama, Mistral side-by-side
-- **Decision guide** — Which model to use for which task
-- **AI Engineering Roadmaps** — RAG, Agents, Fine-tuning, Vector DBs, MCP, Evaluation, MLOps
-- **Awesome AI APIs** — LLM, Vision, Speech-to-Text, TTS, OCR, Image Gen, Embeddings, Reranking
+- **API Directory**: 15+ AI providers (OpenAI, Anthropic, Google, Groq, Cohere, etc.) with pricing and free tier info
+- **Ready-to-use code templates**: OpenAI, Anthropic, Google Gemini, LangChain, LlamaIndex, RAG
+- **Model Comparison Table**: GPT-4o, Claude, Gemini, Llama, Mistral side-by-side
+- **Decision guide**: Which model to use for which task
+- **AI Engineering Roadmaps**: RAG, Agents, Fine-tuning, Vector DBs, MCP, Evaluation, MLOps
+- **Awesome AI APIs**: LLM, Vision, Speech-to-Text, TTS, OCR, Image Gen, Embeddings, Reranking
 
 ---
 
@@ -716,12 +716,27 @@ See [DISCLAIMER.md](./DISCLAIMER.md) for full disclaimer. This repository is for
 
 ---
 
-## License
+## 👤 Author
 
-This project is licensed under the MIT License — see [LICENSE](./LICENSE) for details.
+**Md. Musa Islam Fahad**  
+CSE (Data Science) · Daffodil International University, Dhaka  
+📧 musa.islam.fahad@gmail.com  
+🌐 [Portfolio](https://musaislamfahad.vercel.app) · [GitHub](https://github.com/MusaIslamFahad) · [LinkedIn](https://linkedin.com/in/md-musa-islam-fahad-b18759249)
 
 ---
+
+## License
+
+This project is licensed under the MIT License - see [LICENSE](./LICENSE) for details.
+
+---
+
+<div align="center">
 
 **Remember**: The AI Engineer path is the broadest path in this field. You won't master everything at once — that's normal. Each domain builds your ability to work across all of them. Consistency and curiosity are your greatest tools.
 
 ⭐ **Star this repo** if it helps you on your journey!
+
+**[⬆ Back to Top](#-ai-music-generation-studio)**
+
+</div>
