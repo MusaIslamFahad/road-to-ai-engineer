@@ -22,7 +22,7 @@ Welcome! This guide gets you from zero to running your first ML model in 30 minu
 ## Step 2: Clone This Repository (2 minutes)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/road-to-ai-engineer.git
+git clone https://github.com/MusaIslamFahad/road-to-ai-engineer.git
 cd road-to-ai-engineer
 ```
 
