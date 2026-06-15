@@ -11,7 +11,7 @@
 [![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/road-to-ai-engineer)](https://github.com/YOUR_USERNAME/road-to-ai-engineer/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-![road-to-ai-engineer Banner](https://raw.githubusercontent.com/MusaIslamFahad/road-to-ai-engineer/main/assets/banner.png)
+
 
  *23 Learning Modules • 3 Project Directories • 23 Real-World Projects • All AI Domains • Production-Ready Skills*
 
