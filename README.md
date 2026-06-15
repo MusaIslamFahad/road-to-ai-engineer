@@ -5,13 +5,13 @@
 **A complete, end-to-end learning path to becoming a Generalist AI Engineer covering all domains of modern AI from fundamentals to production.**
 
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/road-to-ai-engineer?style=social)](https://github.com/YOUR_USERNAME/road-to-ai-engineer/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/road-to-ai-engineer?style=social)](https://github.com/YOUR_USERNAME/road-to-ai-engineer/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/road-to-ai-engineer)](https://github.com/YOUR_USERNAME/road-to-ai-engineer/issues)
-[![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/road-to-ai-engineer)](https://github.com/YOUR_USERNAME/road-to-ai-engineer/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/MusaIslamFahad/road-to-ai-engineer?style=social)](https://github.com/YOUR_USERNAME/road-to-ai-engineer/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/MusaIslamFahad/road-to-ai-engineer?style=social)](https://github.com/YOUR_USERNAME/road-to-ai-engineer/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/MusaIslamFahad/road-to-ai-engineer)](https://github.com/YOUR_USERNAME/road-to-ai-engineer/issues)
+[![GitHub license](https://img.shields.io/github/license/MusaIslamFahad/road-to-ai-engineer)](https://github.com/YOUR_USERNAME/road-to-ai-engineer/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-
+![road-to-ai-engineer Banner](https://raw.githubusercontent.com/MusaIslamFahad/road-to-ai-engineer/main/assets/banner.png)
 
  *23 Learning Modules • 3 Project Directories • 23 Real-World Projects • All AI Domains • Production-Ready Skills*
 
