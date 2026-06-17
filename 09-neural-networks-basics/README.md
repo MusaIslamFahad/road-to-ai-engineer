@@ -428,6 +428,4 @@ print(f"MNIST Test Accuracy: {(preds == y_te).mean():.4f}")   # target: > 0.95
 
 ---
 
-## Next Module
-
-[Module 10: Deep Learning Frameworks →](../10-deep-learning-frameworks/README.md)
+**[← Module 08](../08-unsupervised-learning/README.md)** | **[→ Module 10](../10-deep-learning-frameworks/README.md)**
