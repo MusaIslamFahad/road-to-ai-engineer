@@ -256,4 +256,4 @@ What metric matters most?
 - [Imbalanced Data Cheatsheet](../resources/imbalanced_data_cheatsheet.md) — full code reference
 - [Data Science Cheatsheet](../resources/data_science_cheatsheet.md)
 
-**[← Main README](../README.md)** | **[→ Module 21](../21-model-explainability/README.md)**
+**[← Module 19](../19-sql-database-fundamentals/README.md)** | **[→ Module 21](../21-model-explainability/README.md)**
