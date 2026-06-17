@@ -291,4 +291,4 @@ Steps:
 6. Compare all with walk-forward CV (5 folds, 30-day horizon)
 7. Ensemble best two models: weighted average by inverse RMSE
 
-**[← Main README](../README.md)** | **[→ Module 25](../25-generative-ai-llms/README.md)**
+**[← Module 14](../14-mlops-basics/README.md)** | **[→ Module 16](../16-projects-beginner/README.md)**
