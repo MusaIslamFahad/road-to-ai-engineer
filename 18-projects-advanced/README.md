@@ -211,4 +211,4 @@ Multi-document knowledge base chatbot: hybrid RAG (dense + BM25 + reranking) →
 ### Computer Vision Capstone
 End-to-end object detection: data collection + labelling → YOLOv8 training → ONNX export → FastAPI inference server → Docker → deployed Gradio demo. Measure and report mAP@50, FPS on CPU, FPS on GPU.
 
-**[← Intermediate Projects](../17-projects-intermediate/README.md)** | **[← Module 22](../22-reinforcement-learning/README.md)**
+**[← Intermediate Projects](../17-projects-intermediate/README.md)** | **[→ Module 22](../22-reinforcement-learning/README.md)**
