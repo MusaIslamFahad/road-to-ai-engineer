@@ -254,4 +254,4 @@ if report.as_dict()["metrics"][0]["result"]["dataset_drift"]:
 - [Docker Tutorial](../resources/docker_tutorial.md)
 - [MLflow Guide](../resources/mlflow_comprehensive_guide.md)
 
-**[← Module 12](../12-natural-language-processing/README.md)** | **[→ Module 14](../14-mlops-basics/README.md)**
+**[← Module 21](../21-model-explainability/README.md)** | **[→ Module 14](../14-mlops-basics/README.md)**
